@@ -16,7 +16,7 @@
 
 ## 🔑 Features
 
-- **Kaggle Dataset Integration**: The pipeline uses Spotify data downloaded from Kaggle, providing comprehensive insights into tracks, artists, and playlists.
+- **Kaggle Dataset Integration**: The pipeline uses Spotify data downloaded from Kaggle, providing comprehensive insights into tracks, artists, and albums.
 - **ETL Pipeline**: Efficiently processes data using AWS Glue for extraction, transformation, and loading.
 - **Metadata Management**: Registers schemas in Glue Catalog for easy querying with Athena.
 - **Serverless Querying**: Run SQL queries on the data using Amazon Athena, reducing infrastructure management.
